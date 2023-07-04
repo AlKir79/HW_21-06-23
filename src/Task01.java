@@ -1,3 +1,7 @@
+//Задание 1
+//Показать на экране все числа Фибоначчи в диапазоне от
+//0 до 10 000 000.
+
 public class Task01 {
     public static void main(String[] args){
         int num=0;

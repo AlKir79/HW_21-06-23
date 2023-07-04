@@ -1,5 +1,9 @@
-import java.util.Scanner;
+//Задание 7
+//Показать битовое представление значения переменной
+//типа int, используя только один цикл, управляющую переменную, вывод на консоль и битовые операции.
+//Не использовать строки и любые другие готовые функции (методы).
 
+import java.util.Scanner;
 public class Task07 {
     public static void main(String[] args){
         Scanner in = new Scanner(System.in);

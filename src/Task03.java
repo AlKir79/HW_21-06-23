@@ -1,3 +1,7 @@
+//Задание 3
+//Показать на экране все числа Армстронга в диапазоне от
+//10 до 1 000 000
+
 public class Task03 {
 public static void main (String[] args) {
     for (int i = 10; i < 1000000; i++) {
